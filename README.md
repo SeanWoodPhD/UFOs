@@ -3,7 +3,7 @@
 ## Overview of Project
 In this module, Dana is developing a dynamic website where viewers can search UFO sighting data. She has a dataset of the sightings but needs to build the webpage with HTML to display the data, customize its appearance with Bootstrap, and allow users to filter the data with JavaScript. Throughout the module, we built the webpage, customized its appearance, and allowed users to filter the UFO sighting data by date. All that remains to do in this Challenge assignment is to add additional filters to website: city, state, and country where the sighting took place, as well as the UFO's shape.
 
-The HTML and JavaScript used to create the website can be found in the Resources section below. The completed website can be found at: []()
+The HTML and JavaScript used to create the website can be found in the Resources section below. The completed website can be found at: [https://seanwoodphd.github.io/UFOs](https://seanwoodphd.github.io/UFOs)
 
 - **Deliverable 1: Filter UFO Sightings on Multiple Criteria**.
 - **Deliverable 2: Write a Report on the UFO Analysis**.
